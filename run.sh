@@ -1,4 +1,4 @@
-javac WhereAmI.java
+javac NumFunction.java
 
 if [ $ != 00 ]
 then
